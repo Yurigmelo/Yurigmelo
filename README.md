@@ -1,16 +1,73 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Yurigmelo/Yurigmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# YURI GABRIEL
 
-Here are some ideas to get you started:
+### Desenvolvedor Backend • Fullstack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+<div align="center">
+
+Construindo soluções simples, eficientes e escaláveis através de código.
+
+</div>
+
+---
+
+## 🧠 Sobre
+
+Desenvolvedor com foco em backend e aplicações web, trabalhando com tecnologias modernas para criar soluções práticas e funcionais.
+Interesse em automação, APIs e estruturação de sistemas bem organizados.
+
+---
+
+## ⚙️ Stack
+
+<div align="center">
+
+**Linguagens**
+Python • JavaScript
+
+**Frontend**
+HTML • CSS
+
+**Backend**
+Node.js
+
+**Banco de Dados**
+SQL
+
+</div>
+
+---
+
+## 📁 Projetos
+
+<div align="center">
+
+APIs • Automações • Interfaces Web • Integrações
+
+</div>
+
+---
+
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+Email • LinkedIn • Portfólio
+
+</div>
+
+---
+
+<div align="center">
+
+*"Código direto ao ponto. Sem excesso, sem ruído."*
+
+</div>
