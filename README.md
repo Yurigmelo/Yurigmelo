@@ -1,8 +1,9 @@
 <div align="center">
 
-# YURI GABRIEL
+# Yuri Gabriel
 
-### Desenvolvedor Backend • Fullstack
+💻 Desenvolvedor Backend • Fullstack
+🎓 Engenharia de Software | Desenvolvimento de Sistemas
 
 </div>
 
@@ -10,49 +11,53 @@
 
 <div align="center">
 
-Construindo soluções simples, eficientes e escaláveis através de código.
+Transformando ideias em soluções simples, eficientes e escaláveis.
 
 </div>
 
 ---
 
-## 🧠 Sobre
+## 🧾 Perfil Profissional
 
-Desenvolvedor com foco em backend e aplicações web, trabalhando com tecnologias modernas para criar soluções práticas e funcionais.
-Interesse em automação, APIs e estruturação de sistemas bem organizados.
-
----
-
-## ⚙️ Stack
-
-<div align="center">
-
-**Linguagens**
-Python • JavaScript
-
-**Frontend**
-HTML • CSS
-
-**Backend**
-Node.js
-
-**Banco de Dados**
-SQL
-
-</div>
+| Área        | Detalhes                                                             |
+| ----------- | -------------------------------------------------------------------- |
+| 🎓 Formação | Cursando Engenharia de Software e Desenvolvimento de Sistemas        |
+| 💼 Atuação  | Desenvolvimento de aplicações web                                    |
+| 🎯 Foco     | Backend, APIs e automação de processos                               |
+| 🚀 Momento  | Em evolução constante, buscando experiência prática e projetos reais |
 
 ---
 
-## 📁 Projetos
+## ⚙️ Pilha Tecnológica
 
-<div align="center">
-
-APIs • Automações • Interfaces Web • Integrações
-
-</div>
+| Categoria         | Tecnologias                              |
+| ----------------- | ---------------------------------------- |
+| 🧠 Linguagens     | Python, JavaScript                       |
+| 🎨 Frontend       | HTML, CSS                                |
+| 🛠 Backend        | Node.js                                  |
+| 🗄 Banco de Dados | SQL                                      |
+| ⚡ Outros          | APIs, automações, integração de sistemas |
 
 ---
 
+## 🧠 Sobre mim
+
+| Tema         | Descrição                                                           |
+| ------------ | ------------------------------------------------------------------- |
+| 👨‍💻 Perfil | Desenvolvedor focado em criar soluções práticas e bem estruturadas  |
+| 🎯 Estilo    | Código simples, eficiente e organizado                              |
+| 📈 Objetivo  | Evoluir profissionalmente desenvolvendo sistemas úteis e escaláveis |
+| 🤝 Aberto a  | Projetos colaborativos, freelas e oportunidades na área tech        |
+
+---
+
+## 📁 O que você vai encontrar aqui
+
+* 🔹 APIs e aplicações backend
+* 🔹 Scripts de automação
+* 🔹 Projetos web
+* 🔹 Integrações entre sistemas
+* 🔹 Evolução contínua das minhas habilidades
 
 ---
 
@@ -60,7 +65,7 @@ APIs • Automações • Interfaces Web • Integrações
 
 <div align="center">
 
-Email • LinkedIn • Portfólio
+📧 Email • 💼 LinkedIn • 🌐 Portfólio
 
 </div>
 
