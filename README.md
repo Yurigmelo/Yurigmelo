@@ -63,8 +63,14 @@ Tenho facilidade em aprender novas tecnologias e interesse em construir soluçõ
 
 ## 📬 Contato
 
-- **GitHub:** [@Yurigmelo](https://github.com/Yurigmelo)
-- **Email:** yurigabrieldems@gmail.com
+<p align="left">
+  <a href="https://github.com/Yurigmelo" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="INSERIR_LINK_DO_SEU_LINKEDIN_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
 
 ---
 
