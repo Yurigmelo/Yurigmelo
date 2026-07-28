@@ -67,7 +67,7 @@ Tenho facilidade em aprender novas tecnologias e interesse em construir soluçõ
   <a href="https://github.com/Yurigmelo" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <a href="www.linkedin.com/in/yuri-gabriel-aa265b348" target="_blank">
+  <a href="https://www.linkedin.com/in/yuri-gabriel-aa265b348" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
